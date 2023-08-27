@@ -20,6 +20,10 @@
          flex-wrap: wrap;
          padding:  15px;
          margin-bottom: 10px;
+          /* when top navbar fixed then used properties */
+         position: fixed;
+         top: 0;
+         width: 100%;
 
      }
 
@@ -30,7 +34,9 @@
      .Search-section {
          display: flex;
          height: 40px;
-         justify-content: center;    
+         justify-content: center;  
+         /* when top navbar fixed then used properties */
+         margin-top: 90px;   
      }
 
      .Search-section input {
