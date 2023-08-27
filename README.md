@@ -1,1 +1,1 @@
-# this is my images search app
+# This is my Images Search App
